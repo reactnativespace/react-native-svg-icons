@@ -1,8 +1,9 @@
 ## Using SVG Files as Icons in React Native: A Complete Guide?
-### Learn how to implement SVG icons in React Native applications without heavy icon libraries. Step-by-step tutorial with practical examples.
+
+Learn how to implement SVG icons in React Native applications without heavy icon libraries. Step-by-step tutorial with practical examples.
 ![Screenshot](screenshot.png)
 
-### 📖Read blog post
+### 📖 Read blog post
 https://reactnativespace.com/tutorials/using-svg-files-as-icon-in-react-native
 
 ### 📘 Installation
